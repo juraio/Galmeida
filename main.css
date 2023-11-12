@@ -417,13 +417,13 @@ footer a{
 @media screen and (max-width: 960px){
     body{
         background-image: url(yu.avif);
-    }
-    header{
-        background: none;
         overflow-y: scroll;
         overflow-x: hidden;
         width: 100%;
         height: 100vh
+    }
+    header{
+        background: none;
     }
     header .logo{
         width: 600px;
